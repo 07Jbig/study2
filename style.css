@@ -14,7 +14,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   color: white;
-  background-color: rgba(0, 0, 0); /* Fundo preto com 50% de opacidade */
+  background-color: rgba(0, 0, 0);
 }
 
 .titulo-destaque {
